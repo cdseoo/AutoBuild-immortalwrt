@@ -38,7 +38,7 @@ $GITHUB_WORKSPACE/preset-clash-core.sh
 
 echo "
 # mosdns
-#CONFIG_PACKAGE_luci-app-mosdns=y
+CONFIG_PACKAGE_luci-app-mosdns=y
 
 # pushbot
 #CONFIG_PACKAGE_luci-app-pushbot=n
